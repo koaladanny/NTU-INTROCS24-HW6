@@ -1,4 +1,3 @@
-# 4o : 98/72
 import random
 from agents.agent import AgentBase
 from copy import deepcopy
